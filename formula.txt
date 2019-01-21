@@ -1,0 +1,8 @@
+=SE(E(AI2<>FALSO;AH2>$AP$3;AG2<>AG3);AH3-$AP$2;SE(E(AI2<>FALSO;AH2<$AP$3;AG2<>AG3);(($AP$3-AH2)+(AH3-$AP$2));SE(E(AI2<>FALSO;AH2>$AP$2;AG2=AG3);AH3-AH2)))
+
+coluna ai - dia util 
+
+ah - hora
+ag data
+ap2 hora inicio jornada
+
